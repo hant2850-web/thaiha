@@ -1,0 +1,2 @@
+git config --global user.name "hant2850-web"
+git config --global user.email ha.nt.2850@aptechlearning.edu.vn
